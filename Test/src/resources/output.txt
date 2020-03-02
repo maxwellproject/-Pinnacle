@@ -1,0 +1,33 @@
+item			price			qty
+book			$17.99			1
+potato chips			$3.99			1
+subtotal:						$21.98
+tax:						$1.80
+total:						$23.78
+
+
+
+
+
+item			price			qty
+book			$17.99			1
+pencils			$2.99			3
+subtotal:						$26.96
+tax:						$2.40
+total:						$29.36
+
+
+
+
+
+item			price			qty
+pencils			$2.99			2
+shirt			$29.99			1
+subtotal:						$35.97
+tax:						$0.55
+total:						$36.52
+
+
+
+
+
